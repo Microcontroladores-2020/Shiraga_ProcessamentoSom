@@ -10,4 +10,4 @@ Não entraremos em um valor ótimo de treshold para identificarmos corretamente 
 ## Periféricos utilizados
 Para a realização do projeto foi utilizado:
 1. Controlador STM32 F429;
-![STM32 F429]
+![stm32f429-discovery-kit](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/stm32f429-discovery-kit.jpg)
