@@ -7,7 +7,8 @@ A ideia do projeto é reduzir drasticamente os custos de um projeto já feito an
 Inicialmente pretendemos utilizar a biblioteca de Processamento Digital de Sinais para adquirir e interpretar os dados pelo microfone da STM32 F4 Discovery. Depois, vamos implementar o processamento do sinal adquirido pelo método GCC-PHAT (Generalized Cross Correlation Phase Transform).
 Não entraremos em um valor ótimo de treshold para identificarmos corretamente o sinal. Somente faremos a aquisição e processamento com um sinal de referência armazenado em um array.
 Com esse sinal de referência, aplicamos o GCC e pegamos o pico de correlação com o sinal de entrada. Se este valor extrapolar um limite setado, consideraremos o sinal de entrada semelhante (do mesmo tipo) do sinal de referência.
-Uma apresentação breve do projeto realizado em LabVIEW pode ser observado nos assets deste repositório (https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/IME_GDS.pdf).
+Uma apresentação breve do projeto realizado em LabVIEW pode ser observado nos assets deste repositório, com link abaixo.
+Path: https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/IME%20GDS.pdf
 
 ## Periféricos utilizados
 Para a realização do projeto foi utilizado um microcontrolador STM32 F429 do Discovery kit, a qual já possui um microfone.
@@ -25,4 +26,4 @@ STM32Cube IDE foi a interface de desenvolvimento escolhida.
 
 ## Fluxo de funcionamento do projeto
 Seguindo a referência encontrada nos tutoriais, utilizamos o fluxo descrito 
-![fluxo_dsp_basico]
+![fluxo_dsp_basico](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/fluxo_dsp_basico.png)
