@@ -30,7 +30,7 @@ STM32Cube IDE foi a interface de desenvolvimento escolhida.
 
 ## Diagrama / Tabela de Pinagem
 Também seguindo os tutoriais encontrados, usamos o seguinte Diagrama e Tabela de Pinagem:
-![pinagem]https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/pinagem.png
+![pinagem](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/pinagem.png)
 
 Com as seguintes funcionalidades (tabela de pinagem):
 
