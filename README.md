@@ -25,9 +25,9 @@ STM32Cube IDE foi a interface de desenvolvimento escolhida.
 ### Guias e links úteis
 1. Biblioteca de processamento digital de sinais (DSP) stm32f4 discovery: http://stm32f4-discovery.net/tag/dsp/;
 2. Tutorial I2C Audio Codec: https://www.youtube.com/watch?v=QIPQOnVablY&pp=qAMBugMGCgJwdBAB;
-3. Tutorial de algoritmos DSP com stm32f4 discovery: https://www.embarcados.com.br/algoritmos-dsp-stm32f4discovery-parte1/.
-(4. Drive/bizu de um cara com alguns projetos: https://drive.google.com/file/d/0ByfGO_ITCy2tc0lmOFNaNko1YXM/edit)
+3. Tutorial de algoritmos DSP com stm32f4 discovery: https://www.embarcados.com.br/algoritmos-dsp-stm32f4discovery-parte1/;
+4. Drive/bizu com alguns projetos de DSP: https://drive.google.com/file/d/0ByfGO_ITCy2tc0lmOFNaNko1YXM/edit.
 
-## Fluxo de funcionamento do projeto
+## Fluxo de funcionamento do projeto (Firmware)
 Seguindo a referência encontrada nos tutoriais, utilizamos o fluxo descrito 
 ![fluxo_dsp_basico](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/fluxo_dsp_basico.png)
