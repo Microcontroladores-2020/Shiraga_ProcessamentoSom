@@ -12,7 +12,7 @@ Com esse sinal de referência, aplicamos o GCC e pegamos o pico de correlação 
 
 Uma apresentação breve do projeto realizado em LabVIEW pode ser observado nos assets deste repositório, com link abaixo.
 
-Path: https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/IME%20GDS.pdf
+Link: https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/IME%20GDS.pdf
 
 ## Periféricos utilizados
 Para a realização do projeto foi utilizado um microcontrolador STM32 F429 do Discovery kit, a qual já possui um microfone.
