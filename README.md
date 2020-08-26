@@ -28,6 +28,28 @@ STM32Cube IDE foi a interface de desenvolvimento escolhida.
 3. Tutorial de algoritmos DSP com stm32f4 discovery: https://www.embarcados.com.br/algoritmos-dsp-stm32f4discovery-parte1/;
 4. Drive/bizu com alguns projetos de DSP: https://drive.google.com/file/d/0ByfGO_ITCy2tc0lmOFNaNko1YXM/edit.
 
+## Diagrama / Tabela de Pinagem
+Também seguindo os tutoriais encontrados, usamos o seguinte Diagrama e Tabela de Pinagem:
+![pinagem]https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/pinagem.png
+
+Com as seguintes funcionalidades (tabela de pinagem):
+
+| Pinos         | Função         | 
+| ------------- |:--------------:| 
+|      PH0      |   RCC_OSC_IN   | 
+|      PH1      |   RCC_OSC_OUT  |  
+|      PD12     |   GPIO_Output  |
+|      PD13     |   GPIO_Output  |
+|      PD14     |   GPIO_Output  |
+|      PD15     |   GPIO_Output  |
+|      PC7      |   I253_MCK     |
+|      PC10     |   I253_CK      |
+|      PC12     |   I253_SD      |
+|      PB6      |   I2C1_SCL     |
+|      PB9      |   I2C1_SDA     |
+|      PA4      |   I253_W       |
+
+
 ## Fluxo de funcionamento do projeto (Firmware)
 Seguindo a referência encontrada nos tutoriais, utilizamos o fluxo descrito 
 ![fluxo_dsp_basico](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/fluxo_dsp_basico.png)
