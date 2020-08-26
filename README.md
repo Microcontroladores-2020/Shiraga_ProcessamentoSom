@@ -18,6 +18,10 @@ Link: https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/m
 Para a realização do projeto foi utilizado um microcontrolador STM32 F429 do Discovery kit, a qual já possui um microfone.
 ![stm32f429-discovery-kit](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/stm32f429-discovery-kit.jpg)
 
+Uma imagem mais detalhada mostrando o microfone pode ser observada abaixo:
+
+![discovery-microphone](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/discovery-microphone.PNG)
+
 ## Programa e guias utilizados
 ### Programa
 STM32Cube IDE foi a interface de desenvolvimento escolhida.
