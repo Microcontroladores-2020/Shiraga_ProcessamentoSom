@@ -50,6 +50,6 @@ Com as seguintes funcionalidades (tabela de pinagem):
 |      PA4      |   I253_W       |
 
 
-## Fluxo de funcionamento do projeto (Firmware)
-Seguindo a referência encontrada nos tutoriais, utilizamos o fluxo descrito 
+## Fluxo de funcionamento do projeto (Firmware) e Diagrama de Blocos da Eletrônica
+Seguindo a referência encontrada nos tutoriais, utilizamos o fluxo descrito, que mostra tanto o funcionamento do Firmware do projeto (à esquerda), quanto do funcionamento da parte eletrônica (à direita)
 ![fluxo_dsp_basico](https://github.com/Microcontroladores-2020/Shiraga_ProcessamentoSom/blob/master/assets/fluxo_dsp_basico.png)
